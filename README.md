@@ -4,7 +4,7 @@ Hi!
 My name is Zac Gilfoyle.
 
 ## Description
-This repository contains files for a Kanban Board. On this website you can enter task information into a form, that will then be displayed on a task board which allow you to organize the tasks across various lists through Jquery.
+This repository contains files for a Kanban Board. On this website you can enter task information into a form, that will then be displayed on a task board which allow you to organize the tasks across various lists through jQuery.
 This is then stored locally and is restored upon refresh or moving between pages. 
 
 Along with this the page will contain some functionalities for date picking with Day.JS.
